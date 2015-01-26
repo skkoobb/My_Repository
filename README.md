@@ -1,2 +1,3 @@
 # My_Repository
-first attemp
+
+This is all brand new to me...Stay Tuned!
